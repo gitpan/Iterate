@@ -1,0 +1,7 @@
+Revision history for Perl extension Iterate.
+
+0.01  Wed Nov 20 15:30:29 2002
+	- original version; created by h2xs 1.20 with options
+		-X -n Iterate
+	- first draft of Iterate module.
+	- basic array, hash, and file read iterators appear to work.
